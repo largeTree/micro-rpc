@@ -9,3 +9,12 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+/.project
+/.settings/org.eclipse.core.resources.prefs
+/.settings/org.eclipse.m2e.core.prefs
+/micro-rpc-core/*.classpath
+/micro-rpc-core/*.project
+/micro-rpc-core/.settings/*.prefs
+/micro-rpc-utils/*.classpath
+/micro-rpc-utils/*.project
+/micro-rpc-utils/.settings/*.prefs
